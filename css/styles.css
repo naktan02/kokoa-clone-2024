@@ -21,6 +21,9 @@ body {
     Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
   height: 200vh;
   color: #2e363e;
+  margin: 0;
+  height: 100%;
+  overflow: hidden;
 }
 
 .main-screen {
